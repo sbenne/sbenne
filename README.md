@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Sylvain
+
+- 🔭 I’m currently working on a recipe finder website
+- 🌱 I’m currently learning React
 
 <!--
 **sbenne/sbenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
